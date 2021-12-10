@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Android_Shape_Drawables_Tutorial" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Camera_bo/Camera" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Exercice5_bo/Exercice5" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Exercice5a/Extra" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GAME2048" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HelloConstraint" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HelloRelative" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HelloToast" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Lesson4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/QuizGame" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Scrolling_Text" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TouchGestures" vcs="Git" />
+  </component>
+</project>
